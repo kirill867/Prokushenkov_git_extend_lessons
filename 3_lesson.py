@@ -1,1 +1,1 @@
-print('3_lesson_new')
+print('3_lesson_new_')
